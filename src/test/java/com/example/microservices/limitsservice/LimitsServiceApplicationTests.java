@@ -11,6 +11,8 @@ public class LimitsServiceApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		
+		System.out.println("contextLoads");
 	}
 
 }
