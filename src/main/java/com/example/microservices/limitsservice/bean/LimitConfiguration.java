@@ -5,8 +5,6 @@ public class LimitConfiguration {
 	private int minimum;
 	private int maximum;
 	
-	private int limit;
-	
 	protected LimitConfiguration() {
 
 	}
